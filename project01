@@ -1,1 +1,17 @@
-
+<!doctype html>
+<html>
+  <body>
+    <h1>Fall 2025 Creative Portfolio</h1>
+    <h2>Project Concept</h2>
+    <h3>Abstract</h3>
+    <p>I plan to create a body of work that explores how human bodies interact and connect with the physical environment that surrounds them. In an increasingly digitized and sanitized world, how do we reconnect with the natural world? What about our modern world is helpful and healing for our bodies, and what is harmful and inhibiting? </p>
+    <img src="img1/IMG02.jpg" alt="A hand on a laptop keyboard" width="400" />
+    <img src="img1/IMG01.jpg" alt="A hand in the grass" width="400" />
+    
+    <img src="img1/IMG04.jpg" alt="A head and hair laid out on a pillow" width="400" />
+    <img src="img1/IMG03.jpg" alt="A head and hair laid out in the grass" width="400" />
+    
+    <img src="img1/IMG05.jpg" alt="A hand holing a remote" width="400" />
+    <img src="img1/IMG06.jpg" alt="A hand holding leafs on a tree" width="400" />
+  </body>
+</html>
